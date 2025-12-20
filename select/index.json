@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "常々感謝",
+  "base_artist": "Neko Hacker",
+  "createdAt": "2025-12-20T01:16:31.607373Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "常々感謝 feat. ユキムラチャン! & YACA IN DA HOUSE",
+      "artist": "Neko Hacker",
+      "has_synced": false,
+      "path": "select/pl_01_常々感謝_feat._ユキムラチャン!_&_YACA_IN_DA_HOUSE_Neko_Hacker.txt"
+    }
+  ]
+}
